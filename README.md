@@ -9,7 +9,7 @@ I have uploaded a total of 18 files.
 
 The code requires libraries to be imported to make sure the code runs properly, libraries mentioned include pandas, seaborn, matplotlib etc.
 
-I have made and ran all of the code in the IDE Thonny, and tested to ensure the code works. I have applied screenshots of the output each code provides in the word doc as well.
+I have made and ran all of the code in the IDE Thonny, and tested to ensure the code works. I have uploaded pngs of the output each code provides in the word doc as well.
 
 Thanks for reading!
 
